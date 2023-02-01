@@ -1,0 +1,562 @@
+
+[
+  {
+    "uid": "blt6bd72f93827a0017",
+    "champion_blurb": "Fizz es un yordle anfibio que habita entre los arrecifes de alrededor de Aguas Estancadas. Suele recuperar y devolver los diezmos arrojados al mar por capitanes supersticiosos, pero incluso los marineros más agudos saben que no hay que plantarle cara...",
+    "lore": "Fizz es un yordle anfibio que habita entre los arrecifes de alrededor de Aguas Estancadas. Suele recuperar y devolver los diezmos arrojados al mar por capitanes supersticiosos, pero incluso los marineros más agudos saben que no hay que plantarle cara, puesto que hay muchas historias que hablan sobre aquellos que han subestimado a este ser resbaladizo. A menudo lo confunden con algún tipo de espíritu caprichoso del océano. Parece ser capaz de dominar a las bestias de las profundidades y se deleita en confundir a sus aliados y a sus enemigos por igual.",
+    "champion_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/champion/Fizz.png",
+    "champion_name": "Fizz",
+    "champion_title": "El Gamberro de las Mareas",
+    "champion_splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_0.jpg",
+    "difficulty": 6,
+    "recommended_lanes": ["MID"],
+    "recommended_roles": [
+      {
+        "type": "Slayer"
+      },
+      {
+        "type": "Fighter"
+      }
+    ],
+    "links": [
+      {
+        "href": "https://euw.op.gg/champion/fizz/statistics/",
+        "title": "OP.GG"
+      },
+      {
+        "href": "https://u.gg/lol/champions/fizz/build",
+        "title": "U.GG"
+      },
+      {
+        "href": "https://www.probuilds.net/champions/details/fizz",
+        "title": "probuilds.net"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_0.jpg"
+      },
+      {
+        "name": "Fizz atlante",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_1.jpg"
+      },
+      {
+        "name": "Fizz de la tundra",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_2.jpg"
+      },
+      {
+        "name": "Fizz pescador",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_3.jpg"
+      },
+      {
+        "name": "Fizz del Vacío",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_4.jpg"
+      },
+      {
+        "name": "Fizz conejo",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_8.jpg"
+      },
+      {
+        "name": "Fizz supergaláctico",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_9.jpg"
+      },
+      {
+        "name": "Fizz escuadrón omega",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_10.jpg"
+      },
+      {
+        "name": "Fizz peludito",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_14.jpg"
+      },
+      {
+        "name": "Fizz peludito de prestigio",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_15.jpg"
+      },
+      {
+        "name": "Fizz diablillo",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_16.jpg"
+      },
+      {
+        "name": "Fizz peludito de prestigio (2022)",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_25.jpg"
+      }
+    ],
+    "champion_passive": {
+      "champion_passive_description": "Fizz se puede mover a través de unidades y reduce una cantidad fija el daño proveniente de cualquier fuente.",
+      "champion_passive_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/passive/Fizz_P.png",
+      "champion_passive_name": "Luchador ágil",
+      "champion_passive_video_mp4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0105/ability_0105_P1.mp4",
+      "champion_passive_video_poster": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0105/ability_0105_P1.jpg",
+      "champion_passive_video_webm": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0105/ability_0105_P1.webm"
+    },
+    "champion_q": {
+      "champion_q_description": "Fizz atraviesa a su objetivo, inflige daño mágico y aplica efectos de impacto.",
+      "champion_q_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/spell/FizzQ.png",
+      "champion_q_name": "Golpe de erizo de mar",
+      "champion_q_video_mp4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0105/ability_0105_Q1.mp4",
+      "champion_q_video_poster": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0105/ability_0105_Q1.jpg",
+      "champion_q_video_webm": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0105/ability_0105_Q1.webm"
+    },
+    "champion_w": {
+      "champion_w_description": "Los ataques de Fizz hacen que sus enemigos se desangren y sufran daño mágico durante varios segundos. Fizz puede potenciar su siguiente ataque para infligir daño adicional y potenciar sus siguientes ataques durante un breve periodo de tiempo.",
+      "champion_w_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/spell/FizzW.png",
+      "champion_w_name": "Tridente piedramar",
+      "champion_w_video_mp4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0105/ability_0105_W1.mp4",
+      "champion_w_video_poster": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0105/ability_0105_W1.jpg",
+      "champion_w_video_webm": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0105/ability_0105_W1.webm"
+    },
+    "champion_e": {
+      "champion_e_description": "Fizz salta al aire y aterriza grácilmente sobre su lanza, siendo imposible atacarlo. Desde esta posición, Fizz puede dejarse caer para aplastar el suelo u optar por saltar de nuevo antes de hacerlo.",
+      "champion_e_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/spell/FizzE.png",
+      "champion_e_name": "Juguetón/Gamberro",
+      "champion_e_video_mp4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0105/ability_0105_E1.mp4",
+      "champion_e_video_poster": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0105/ability_0105_E1.jpg",
+      "champion_e_video_webm": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0105/ability_0105_E1.webm"
+    },
+    "champion_r": {
+      "champion_r_description": "Fizz lanza hacia una dirección un pez que se adhiere al primer campeón que toca y lo ralentiza. Tras un momento, sale un tiburón de la tierra que lanza al objetivo por los aires y empuja a un lado a los enemigos cercanos. Todos los enemigos alcanzados sufren daño mágico y son ralentizados.",
+      "champion_r_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/spell/FizzR.png",
+      "champion_r_name": "Carnaza para tiburones",
+      "champion_r_video_mp4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0105/ability_0105_R1.mp4",
+      "champion_r_video_poster": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0105/ability_0105_R1.jpg",
+      "champion_r_video_webm": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0105/ability_0105_R1.webm"
+    }
+  },
+  {
+    "uid": "blt86cf6a77397e22c0",
+    "champion_blurb": "Mordekaiser es un sanguinario señor de la guerra proveniente de tiempos olvidados al que los siglos han visto nacer en tres ocasiones y morir en otras dos. Utiliza sus poderes necrománticos para atar almas perdidas a una vida eterna a su servicio. Ya no...",
+    "lore": "Mordekaiser es un sanguinario señor de la guerra proveniente de tiempos olvidados al que los siglos han visto nacer en tres ocasiones y morir en otras dos. Utiliza sus poderes necrománticos para atar almas perdidas a una vida eterna a su servicio. Ya no quedan muchos que recuerden sus conquistas iniciales o comprendan el alcance de su poder. Aquellos que lo hacen, no obstante, temen con angustia el día en el que regrese para alzarse sobre los vivos y los muertos.",
+    "champion_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/champion/Mordekaiser.png",
+    "champion_name": "Mordekaiser",
+    "champion_splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_0.jpg",
+    "champion_title": "La Pesadilla de Hierro",
+    "difficulty": 4,
+    "recommended_lanes": ["TOP"],
+    "recommended_roles": [
+      {
+        "type": "Fighter"
+      }
+    ],
+    "links": [
+      {
+        "href": "https://euw.op.gg/champion/mordekaiser/statistics/",
+        "title": "OP.GG"
+      },
+      {
+        "href": "https://u.gg/lol/champions/mordekaiser/build",
+        "title": "U.GG"
+      },
+      {
+        "href": "https://www.probuilds.net/champions/details/mordekaiser",
+        "title": "probuilds.net"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_0.jpg"
+      },
+      {
+        "name": "Mordekaiser caballero del dragón",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_1.jpg"
+      },
+      {
+        "name": "Mordekaiser infernal",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_2.jpg"
+      },
+      {
+        "name": "Mordekaiser Pentakill",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_3.jpg"
+      },
+      {
+        "name": "Lord Mordekaiser",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_4.jpg"
+      },
+      {
+        "name": "Mordekaiser rey de tréboles",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_5.jpg"
+      },
+      {
+        "name": "Mordekaiser estrella oscura",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_6.jpg"
+      },
+      {
+        "name": "PROYECTO: Mordekaiser",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_13.jpg"
+      },
+      {
+        "name": "Mordekaiser Pentakill III: Lost Chapter",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_23.jpg"
+      },
+      {
+        "name": "Mordekaiser solo ante el peligro",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_32.jpg"
+      },
+      {
+        "name": "Mordekaiser guerrero de la ceniza",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_42.jpg"
+      }
+    ],
+    "champion_passive": {
+      "champion_passive_description": "Mordekaiser obtiene una poderosa aura de daño y velocidad de movimiento después de acertar tres ataques o habilidades contra campeones o monstruos.",
+      "champion_passive_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/passive/MordekaiserPassive.png",
+      "champion_passive_name": "El auge de la oscuridad",
+      "champion_passive_video_mp4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0082/ability_0082_P1.mp4",
+      "champion_passive_video_poster": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0082/ability_0082_P1.jpg",
+      "champion_passive_video_webm": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0082/ability_0082_P1.webm"
+    },
+    "champion_q": {
+      "champion_q_description": "Mordekaiser golpea el suelo con su maza e inflige daño a todos los enemigos golpeados. El daño aumenta cuando golpea a un solo objetivo.",
+      "champion_q_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/spell/MordekaiserQ.png",
+      "champion_q_name": "Aniquilación",
+      "champion_q_video_mp4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0082/ability_0082_Q1.mp4",
+      "champion_q_video_poster": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0082/ability_0082_Q1.jpg",
+      "champion_q_video_webm": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0082/ability_0082_Q1.webm"
+    },
+    "champion_w": {
+      "champion_w_description": "Mordekaiser almacena el daño infligido para generar un escudo. Puede consumir el escudo para curarse.",
+      "champion_w_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/spell/MordekaiserW.png",
+      "champion_w_name": "Indestructible",
+      "champion_w_video_mp4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0082/ability_0082_W1.mp4",
+      "champion_w_video_poster": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0082/ability_0082_W1.jpg",
+      "champion_w_video_webm": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0082/ability_0082_W1.webm"
+    },
+    "champion_e": {
+      "champion_e_description": "Mordekaiser atrae a todos los enemigos de una zona.",
+      "champion_e_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/spell/MordekaiserE.png",
+      "champion_e_name": "Abrazo de la muerte",
+      "champion_e_video_mp4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0082/ability_0082_E1.mp4",
+      "champion_e_video_poster": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0082/ability_0082_E1.jpg",
+      "champion_e_video_webm": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0082/ability_0082_E1.webm"
+    },
+    "champion_r": {
+      "champion_r_description": "Mordekaiser arrastra a su víctima a otra dimensión y le roba una parte de sus estadísticas. Si consigue matarla, se queda con las estadísticas robadas hasta que la víctima vuelva a aparecer en la fuente.",
+      "champion_r_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/spell/MordekaiserR.png",
+      "champion_r_name": "Reino de la muerte",
+      "champion_r_video_mp4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0082/ability_0082_R1.mp4",
+      "champion_r_video_poster": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0082/ability_0082_R1.jpg",
+      "champion_r_video_webm": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0082/ability_0082_R1.webm"
+    }
+  },
+  {
+    "uid": "bltfc839caabf4aa649",
+    "champion_blurb": "Entusiasta maestro de la magia negra, Veigar ha hecho suyos poderes a los que pocos mortales se atreven a acercarse. Como espíritu de Ciudad de Bandle, buscó durante mucho tiempo deshacerse de las limitaciones de la magia yordle, así que su atención se...",
+    "lore": "Entusiasta maestro de la magia negra, Veigar ha hecho suyos poderes a los que pocos mortales se atreven a acercarse. Como espíritu de Ciudad de Bandle, buscó durante mucho tiempo deshacerse de las limitaciones de la magia yordle, así que su atención se posó sobre unos textos arcanos que habían estado escondidos durante siglos. Ahora, dada su terquedad y su curiosidad infinita por los misterios del universo, Veigar es menospreciado a menudo pero, aunque él se ve a sí mismo como una fuerza del mal, posee una moral interior que lleva a algunos a cuestionar sus motivaciones ulteriores.",
+    "champion_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/champion/Veigar.png",
+    "champion_name": "Veigar",
+    "champion_splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_0.jpg",
+    "champion_title": "El Pequeño Maestro del Mal",
+    "difficulty": 7,
+    "recommended_lanes": ["MID"],
+    "recommended_roles": [
+      {
+        "type": "Mage"
+      }
+    ],
+    "links": [
+      {
+        "href": "https://euw.op.gg/champion/veigar/statistics/",
+        "title": "OP.GG"
+      },
+      {
+        "href": "https://u.gg/lol/champions/veigar/build",
+        "title": "U.GG"
+      },
+      {
+        "href": "https://www.probuilds.net/champions/details/veigar",
+        "title": "probuilds.net"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_0.jpg"
+      },
+      {
+        "name": "Veigar hechicero blanco",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_1.jpg"
+      },
+      {
+        "name": "Veigar curling",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_2.jpg"
+      },
+      {
+        "name": "Veigar barbagrís",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_3.jpg"
+      },
+      {
+        "name": "Veigar duende",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_4.jpg"
+      },
+      {
+        "name": "Barón von Veigar",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_5.jpg"
+      },
+      {
+        "name": "Veigar villano con clase",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_6.jpg"
+      },
+      {
+        "name": "Veigar Papá Noel pérfido",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_7.jpg"
+      },
+      {
+        "name": "Veigar jefe final",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_8.jpg"
+      },
+      {
+        "name": "Veigar escuadrón omega",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_9.jpg"
+      },
+      {
+        "name": "Veigar bosque ancestral",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_13.jpg"
+      },
+      {
+        "name": "Veigar cosplay de Cuernofurioso",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_23.jpg"
+      },
+      {
+        "name": "Veigar astronauta",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_32.jpg"
+      },
+      {
+        "name": "Veigar domador de monstruos",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_41.jpg"
+      }
+    ],
+    "champion_passive": {
+      "champion_passive_description": "Veigar es el mayor mal que se haya visto en el corazón de Runaterra... ¡y cada vez es más malvado! Veigar aumenta su poder de habilidad de forma permanente al golpear a un campeón enemigo con un hechizo o al acabar con un enemigo.",
+      "champion_passive_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/passive/VeigarEntropy.png",
+      "champion_passive_name": "Poder de Maldad increíble",
+      "champion_passive_video_mp4": "",
+      "champion_passive_video_poster": "",
+      "champion_passive_video_webm": ""
+    },
+    "champion_q": {
+      "champion_q_description": "Veigar lanza un rayo de energía oscura que inflige daño mágico a los dos primeros enemigos alcanzados. Las unidades asesinadas por el rayo otorgan a Veigar un poco de poder de habilidad permanente.",
+      "champion_q_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/spell/VeigarBalefulStrike.png",
+      "champion_q_name": "Ataque maligno",
+      "champion_q_video_mp4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0045/ability_0045_Q1.mp4",
+      "champion_q_video_poster": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0045/ability_0045_Q1.jpg",
+      "champion_q_video_webm": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0045/ability_0045_Q1.webm"
+    },
+    "champion_w": {
+      "champion_w_description": "Veigar invoca una gran masa de materia oscura que cae del cielo sobre la ubicación del objetivo e inflige daño mágico. Las acumulaciones de Maldad increíble reducen el enfriamiento de Materia oscura.",
+      "champion_w_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/spell/VeigarDarkMatter.png",
+      "champion_w_name": "Materia oscura",
+      "champion_w_video_mp4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0045/ability_0045_W1.mp4",
+      "champion_w_video_poster": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0045/ability_0045_W1.jpg",
+      "champion_w_video_webm": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0045/ability_0045_W1.webm"
+    },
+    "champion_e": {
+      "champion_e_description": "Veigar retuerce los límites del espacio y crea una cárcel que aturde a los enemigos que la atraviesan.",
+      "champion_e_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/spell/VeigarEventHorizon.png",
+      "champion_e_name": "Horizonte de sucesos",
+      "champion_e_video_mp4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0045/ability_0045_E1.mp4",
+      "champion_e_video_poster": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0045/ability_0045_E1.jpg",
+      "champion_e_video_webm": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0045/ability_0045_E1.webm"
+    },
+    "champion_r": {
+      "champion_r_description": "El campeón objetivo sufre una explosión que inflige una gran cantidad de daño mágico. Dicha cantidad aumenta según la vida que le falte al objetivo.",
+      "champion_r_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/spell/VeigarR.png",
+      "champion_r_name": "Estallido primordial",
+      "champion_r_video_mp4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0045/ability_0045_R1.mp4",
+      "champion_r_video_poster": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0045/ability_0045_R1.jpg",
+      "champion_r_video_webm": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0045/ability_0045_R1.webm"
+    }
+  },
+  {
+    "uid": "bltafd57ef8b2ad54bb",
+    "champion_blurb": "En el oscuro corazón de las Islas de la Sombra, una yordle solitaria atraviesa arduamente la bruma espectral, satisfecha con su tenebrosa miseria. Con una angustia adolescente inagotable y una poderosa sombra tras de sí, Vex vive en un planeta de...",
+    "lore": "En el oscuro corazón de las Islas de la Sombra, una yordle solitaria atraviesa arduamente la bruma espectral, satisfecha con su tenebrosa miseria. Con una angustia adolescente inagotable y una poderosa sombra tras de sí, Vex vive en un planeta de pesimismo creado por ella misma, lejos de la repugnante alegría del mundo de la gente aburrida. A pesar de su falta de ambición, acaba rápidamente con el color y la felicidad, y puede pararle los pies a cualquier posible intruso con su miserable magia.",
+    "champion_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/champion/Vex.png",
+    "champion_name": "Vex",
+    "champion_splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_0.jpg",
+    "champion_title": "la Lúgubre",
+    "difficulty": 0,
+    "recommended_lanes": ["MID"],
+    "recommended_roles": [
+      {
+        "type": "Mage"
+      }
+    ],
+    "links": [
+      {
+        "href": "https://euw.op.gg/champion/vex/statistics/top/build",
+        "title": "OP.GG"
+      },
+      {
+        "href": "https://u.gg/lol/champions/vex/build",
+        "title": "U.GG"
+      },
+      {
+        "href": "https://probuildstats.com/champion/vex",
+        "title": "Probuild Stats"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_0.jpg"
+      },
+      {
+        "name": "Vex guerrera del orden",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_1.jpg"
+      },
+      {
+        "name": "Vex empírea",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_10.jpg"
+      }
+    ],
+    "champion_passive": {
+      "champion_passive_description": "Vex se potencia periódicamente, lo que provoca que su siguiente habilidad básica aterrorice a los enemigos e interrumpa los deslizamientos. Cuando un enemigo cercano se desliza, Vex aplica una marca que se puede consumir para infligir daño adicional. También reduce el enfriamiento de su estado potenciado.",
+      "champion_passive_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/passive/Icons_Vex_Passive.png",
+      "champion_passive_name": "Miseria y pesimismo",
+      "champion_passive_video_mp4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0711/ability_0711_P1.mp4",
+      "champion_passive_video_poster": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0711/ability_0711_P1.jpg",
+      "champion_passive_video_webm": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0711/ability_0711_P1.webm"
+    },
+    "champion_q": {
+      "champion_q_description": "Lanza un proyectil dañino que acelera a mitad de vuelo.",
+      "champion_q_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/spell/VexQ.png",
+      "champion_q_name": "Proyectil mistral",
+      "champion_q_video_mp4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0711/ability_0711_Q1.mp4",
+      "champion_q_video_poster": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0711/ability_0711_Q1.jpg",
+      "champion_q_video_webm": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0711/ability_0711_Q1.webm"
+    },
+    "champion_w": {
+      "champion_w_description": "Obtiene un escudo e inflige daño a los enemigos cercanos.",
+      "champion_w_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/spell/VexW.png",
+      "champion_w_name": "Espacio personal",
+      "champion_w_video_mp4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0711/ability_0711_W1.mp4",
+      "champion_w_video_poster": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0711/ability_0711_W1.jpg",
+      "champion_w_video_webm": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0711/ability_0711_W1.webm"
+    },
+    "champion_e": {
+      "champion_e_description": "Invoca una zona de ralentización que inflige daño y aplica Pesimismo a los enemigos.",
+      "champion_e_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/spell/VexE.png",
+      "champion_e_name": "Oscuridad amenazante",
+      "champion_e_video_mp4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0711/ability_0711_E1.mp4",
+      "champion_e_video_poster": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0711/ability_0711_E1.jpg",
+      "champion_e_video_webm": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0711/ability_0711_E1.webm"
+    },
+    "champion_r": {
+      "champion_r_description": "Dispara un misil que marca a un campeón enemigo. Si se activa de nuevo la habilidad, Vex se desliza hacia este y le inflige daño.",
+      "champion_r_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/spell/VexR.png",
+      "champion_r_name": "Estallido sombrío",
+      "champion_r_video_mp4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0711/ability_0711_R1.mp4",
+      "champion_r_video_poster": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0711/ability_0711_R1.jpg",
+      "champion_r_video_webm": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0711/ability_0711_R1.webm"
+    }
+  },
+  {
+    "uid": "blt021d5ca1e3155700",
+    "champion_blurb": "Para aquellos que aún lo veneran, Volibear es la encarnación de la tormenta. Destructivo, salvaje y decidido, existe desde antes de que los mortales pusieran pie en las tundras de Freljord y protege con fiereza las tierras que creó junto a sus hermanos...",
+    "lore": "Para aquellos que aún lo veneran, Volibear es la encarnación de la tormenta. Destructivo, salvaje y decidido, existe desde antes de que los mortales pusieran pie en las tundras de Freljord y protege con fiereza las tierras que creó junto a sus hermanos seMIDioses. Ha desarrollado un profundo odio por la civilización y la debilidad que, a sus ojos, ha traído consigo, y lucha para regresar a las costumbres de antaño, cuando la tierra era salvaje y la sangre fluía sin reparos. Con sus dientes, sus garras y su atronadora presencia, acaba con todo aquel que se oponga a su visión.",
+    "champion_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/champion/Volibear.png",
+    "champion_name": "Volibear",
+    "champion_splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_0.jpg",
+    "champion_title": "la Tormenta Incesante",
+    "difficulty": 3,
+    "recommended_lanes": ["TOP"],
+    "recommended_roles": [
+      {
+        "type": "Fighter"
+      }
+    ],
+    "links": [
+      {
+        "href": "https://euw.op.gg/champion/volibear/statistics/",
+        "title": "OP.GG"
+      },
+      {
+        "href": "https://u.gg/lol/champions/volibear/build",
+        "title": "U.GG"
+      },
+      {
+        "href": "https://www.probuilds.net/champions/details/volibear",
+        "title": "probuilds.net"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_0.jpg"
+      },
+      {
+        "name": "Volibear señor del trueno",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_1.jpg"
+      },
+      {
+        "name": "Volibear tormenta del norte",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_2.jpg"
+      },
+      {
+        "name": "Volibear guardián rúnico",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_3.jpg"
+      },
+      {
+        "name": "Capitán Volibear",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_4.jpg"
+      },
+      {
+        "name": "El Rayo Volibear",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_5.jpg"
+      },
+      {
+        "name": "Volibear mil cicatrices",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_6.jpg"
+      },
+      {
+        "name": "Volibear dragón de la dualidad",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_7.jpg"
+      },
+      {
+        "name": "Volibear dragón de la dualidad de prestigio",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_9.jpg"
+      }
+    ],
+    "champion_passive": {
+      "champion_passive_description": "Los ataques y habilidades de Volibear le otorgan velocidad de ataque, y sus ataques acaban infligiendo daño mágico adicional a los enemigos cercanos.",
+      "champion_passive_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/passive/Volibear_Icon_P.png",
+      "champion_passive_name": "Tormenta incesante",
+      "champion_passive_video_mp4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0106/ability_0106_P1.mp4",
+      "champion_passive_video_poster": "",
+      "champion_passive_video_webm": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0106/ability_0106_P1.webm"
+    },
+    "champion_q": {
+      "champion_q_description": "Volibear obtiene velocidad cuando se dirige hacia un enemigo y aturde e inflige daño al primero que ataca.",
+      "champion_q_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/spell/VolibearQ.png",
+      "champion_q_name": "Impacto atronador",
+      "champion_q_video_mp4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0106/ability_0106_Q1.mp4",
+      "champion_q_video_poster": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0106/ability_0106_Q1.jpg",
+      "champion_q_video_webm": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0106/ability_0106_Q1.webm"
+    },
+    "champion_w": {
+      "champion_w_description": "Volibear inflige daño a un enemigo, aplica efectos de impacto y marca a su objetivo.  Volver a lanzar esta habilidad contra el mismo objetivo inflige daño adicional y cura a Volibear.",
+      "champion_w_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/spell/VolibearW.png",
+      "champion_w_name": "Acometida frenética",
+      "champion_w_video_mp4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0106/ability_0106_W1.mp4",
+      "champion_w_video_poster": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0106/ability_0106_W1.jpg",
+      "champion_w_video_webm": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0106/ability_0106_W1.webm"
+    },
+    "champion_e": {
+      "champion_e_description": "Volibear invoca un relámpago en una ubicación que inflige daño y ralentiza a los enemigos, a la vez que otorga un escudo a Volibear si se encuentra dentro del alcance de la explosión.",
+      "champion_e_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/spell/VolibearE.png",
+      "champion_e_name": "Rompecielos",
+      "champion_e_video_mp4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0106/ability_0106_E1.mp4",
+      "champion_e_video_poster": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0106/ability_0106_E1.jpg",
+      "champion_e_video_webm": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0106/ability_0106_E1.webm"
+    },
+    "champion_r": {
+      "champion_r_description": "Volibear salta hacia una ubicación objetivo y ralentiza a los enemigos que estén bajo él mientras obtiene vida adicional.  Las torretas enemigas junto a la zona de aterrizaje quedan temporalmente desactivadas.",
+      "champion_r_icon": "https://ddragon.leagueoflegends.com/cdn/13.1.1/img/spell/VolibearR.png",
+      "champion_r_name": "Heraldo de la tormenta",
+      "champion_r_video_mp4": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0106/ability_0106_R1.mp4",
+      "champion_r_video_poster": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0106/ability_0106_R1.jpg",
+      "champion_r_video_webm": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0106/ability_0106_R1.webm"
+    }
+  }
+]
